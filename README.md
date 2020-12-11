@@ -16,7 +16,8 @@ Their Vision Statement : A world of enabled and connected little minds, building
 
 ## Task 0- LinkedIn Profile Improvement
 
-    Complete your LinkedIn Profile with all details from your resume, e.g. Objective, Education, Projects, Experience, etc.. Add your professors, friends, seniors, industry leaders, etc. to your connections. Send invitation request to many. 
+    Complete your LinkedIn Profile with all details from your resume, e.g. Objective, Education, Projects, Experience, etc.. Add your professors, friends, seniors, industry
+    leaders, etc. to your connections. Send invitation request to many. 
 
 To see the implementation check this link - https://www.linkedin.com/in/hemkar
 
